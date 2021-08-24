@@ -1,4 +1,5 @@
 /*Heder*/
+html, body {height:100%;}
 .logo-top {
   width: 100px;
   height: 40px;
@@ -72,4 +73,12 @@
   /*font-size: 2em;*/
   text-align: center;
   padding-bottom: 7%;
+}
+.thanks {
+    margin-top: 35%;
+    margin-bottom: 35%;
+}
+.btn__back {
+    margin: 0 auto;
+    text-align: center;
 }
